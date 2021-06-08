@@ -1,0 +1,24 @@
+login_data:
+  - username: liufenfei
+    password: 0192023a7bbd73250516f069df18b500
+    message: login success
+
+  - username: admin1
+    password: 0192023a7bbd73250516f069df18b5000
+    message: Authentication failed
+
+  - username: admin122222
+    password: 0192023a7bbd73250516f069df18b500
+    message: Authentication failed
+
+  - username:
+    password: 0192023a7bbd73250516f069df18b500
+    message: Authentication failed
+
+  - username: admin1
+    password:
+    message: Authentication failed
+
+  - username:
+    password:
+    message: Authentication failed
